@@ -1,2 +1,2 @@
 
-Cloud Providrers Terraform Templates for References
+Cloud Providers Terraform Templates for References
